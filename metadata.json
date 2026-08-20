@@ -1,0 +1,6 @@
+{
+  "name": "SIGI — Sistema Integrado de Gestão e Inteligência",
+  "description": "SIGI — Sistema Integrado de Gestão e Inteligência: plataforma para centralizar suporte técnico, clientes, registros, atendimentos e base de conhecimento.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
